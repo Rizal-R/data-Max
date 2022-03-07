@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&family=Hubballi&family=Source+Sans+Pro:wght@200&display=swap');
+body {
+    background-color: rgb(238, 237, 237) !important;
+   
+    font-family: 'Hubballi', cursive !important;
+    
+}
+
+h3 {
+    margin: 40px 0 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    color: #fff;
+}
+
+.nav {
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: 20px !important;
+}
+
+.card-img-top {
+    padding: 10px;
+}
+
+.card {
+    border: none;
+    background-color: #eeeded !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text-title{
+    color: #8d8d8d;
+    font-size: 14px;
+}
+.font-timer{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+.margin{
+    margin: 10px;
+}
+.nav-link {
+color: #fff !important;
+}
